@@ -181,12 +181,12 @@ header .follow a:hover{
 .home .content h3{
     font-size: 3.5rem;
     color: rgba( 92,109,109,1);
-    text-transform: uppercase;
+/*     text-transform: uppercase; */
 }
 
 .home .content h3 span{
     color: var(--main-color);
-    text-transform: uppercase;
+/*     text-transform: uppercase; */
 }
 
 .home .content .info{
@@ -295,11 +295,11 @@ header .follow a:hover{
 }
 
 .about .row-2 .skills .progress:nth-child(2) .bar span{
-    width:72%;
+    width:78%;
 }
 
 .about .row-2 .skills .progress:nth-child(3) .bar span{
-    width:71%;
+    width:72%;
 }
 
 .about .row-2 .skills .progress:nth-child(4) .bar span{
